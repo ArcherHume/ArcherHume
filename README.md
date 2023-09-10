@@ -1,18 +1,8 @@
 # Hey, I'm Archer Hume! 👋
 
-![Data Science](https://img.shields.io/badge/Data%20Science-%230072BF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...)
-
 ## 🎓 Education
 
 - 📚 **Bachelor of Data Science** at _RMIT University, Melbourne_ (2021 - 2024)
-
-## 💻 Skills & Technologies
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-%239A6AF1.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2300CACA.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...)
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Astro.Build](https://img.shields.io/badge/Astro.Build-%23157087.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ## 🤝 Let's Connect
 
