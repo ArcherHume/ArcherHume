@@ -1,12 +1,11 @@
-# Hey, I'm Archer Hume! 👋
+### Hey, I'm Archer Hume! 👋
 
-## 🎓 Education
+I'm a 19-year-old <strong>full-stack</strong> developer from Melbourne, currently studying data science at RMIT. I've enjoyed tinkering with code since <strong>early childhood</strong>. This is a space to share my projects, and help with others.
 
-- 📚 **Bachelor of Data Science** at _RMIT University, Melbourne_ (2021 - 2024)
-
-## 🤝 Let's Connect
-
-I'm always keen to expand my professional network, collaborate on exciting projects, and explore new opportunities. If you'd like to have a chat or discuss potential collaboration, please feel free to reach out to me through the following channels:
+#### 🤝 Let's Connect
 
 - Email: [archer@hume.email](mailto:archer@hume.email)
 - Twitter: [@4rcherhume](https://twitter.com/4rcherhume)
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archerhume" />
