@@ -2,6 +2,8 @@
 
 I'm a 19-year-old <strong>full-stack</strong> developer from Melbourne, currently studying data science at RMIT. I've enjoyed tinkering with code since <strong>early childhood</strong>. This is a space to share my projects, and help with others.
 
+> I'm currently working on [Hacker Bargains](https://hacker.bargains/)! Check it out :)
+
 #### 🤝 Let's Connect
 
 - Email: [archer@hume.email](mailto:archer@hume.email)
